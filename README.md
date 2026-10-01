@@ -1,3 +1,4 @@
+![Metronome Starter Process Overview](metronome_starter.png)
 # Metronome Starter
 
 **Use Claude Code as a production coach so you ship one YouTube video every week.**
@@ -13,7 +14,7 @@ It does **not** edit your video, and it does **not** build the thing your video 
 
 It's a cleaned-up copy of the real setup behind a 12-week run: one long-form video a week, on top of a full-time job, on a small finance-and-automation channel.
 
-As of 2026-09-28: **12 of 12 videos published.** One week was missed along the way. The median was **about 2.5 hours of the creator's own time per video**, and all but one video came in under the 3-hour target.
+As of 2026-10-01: **12 of 12 videos published.** One week was missed along the way. The median was **about 2.5 hours of the creator's own time per video**, and all but one video came in under the 3-hour target.
 
 Every rule in here exists because something went wrong once. `LESSONS.md` tells those stories.
 
