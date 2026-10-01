@@ -6,7 +6,7 @@ You open this folder in Claude Code, and Claude becomes your production coach. I
 
 It does **not** edit your video, and it does **not** build the thing your video shows. Those are separate jobs (see *What you bring yourself* below).
 
-> Made by: [Philipp Kowalski / Bytes and Budgets]: [Bytes and Budgets on Youtube](https://www.youtube.com/@bytesandbudgets)
+> Made by: Philipp Kowalski / Bytes and Budgets: [Bytes and Budgets on Youtube](https://www.youtube.com/@bytesandbudgets)
 ---
 
 ## Where this comes from
